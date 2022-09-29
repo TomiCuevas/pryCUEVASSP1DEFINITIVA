@@ -1,0 +1,12 @@
+C:\Users\Tomás Cuevas\Desktop\pryCUEVASSP1DEFINITIVA\pryCUEVASSP1DEFINITIVA\bin\Debug\pryCUEVASSP1DEFINITIVA.exe.config
+C:\Users\Tomás Cuevas\Desktop\pryCUEVASSP1DEFINITIVA\pryCUEVASSP1DEFINITIVA\bin\Debug\pryCUEVASSP1DEFINITIVA.exe
+C:\Users\Tomás Cuevas\Desktop\pryCUEVASSP1DEFINITIVA\pryCUEVASSP1DEFINITIVA\bin\Debug\pryCUEVASSP1DEFINITIVA.pdb
+C:\Users\Tomás Cuevas\Desktop\pryCUEVASSP1DEFINITIVA\pryCUEVASSP1DEFINITIVA\obj\Debug\pryCUEVASSP1DEFINITIVA.csproj.AssemblyReference.cache
+C:\Users\Tomás Cuevas\Desktop\pryCUEVASSP1DEFINITIVA\pryCUEVASSP1DEFINITIVA\obj\Debug\pryCUEVASSP1DEFINITIVA.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tomás Cuevas\Desktop\pryCUEVASSP1DEFINITIVA\pryCUEVASSP1DEFINITIVA\obj\Debug\pryCUEVASSP1DEFINITIVA.frmInicio.resources
+C:\Users\Tomás Cuevas\Desktop\pryCUEVASSP1DEFINITIVA\pryCUEVASSP1DEFINITIVA\obj\Debug\pryCUEVASSP1DEFINITIVA.frmLogin.resources
+C:\Users\Tomás Cuevas\Desktop\pryCUEVASSP1DEFINITIVA\pryCUEVASSP1DEFINITIVA\obj\Debug\pryCUEVASSP1DEFINITIVA.Properties.Resources.resources
+C:\Users\Tomás Cuevas\Desktop\pryCUEVASSP1DEFINITIVA\pryCUEVASSP1DEFINITIVA\obj\Debug\pryCUEVASSP1DEFINITIVA.csproj.GenerateResource.cache
+C:\Users\Tomás Cuevas\Desktop\pryCUEVASSP1DEFINITIVA\pryCUEVASSP1DEFINITIVA\obj\Debug\pryCUEVASSP1DEFINITIVA.csproj.CoreCompileInputs.cache
+C:\Users\Tomás Cuevas\Desktop\pryCUEVASSP1DEFINITIVA\pryCUEVASSP1DEFINITIVA\obj\Debug\pryCUEVASSP1DEFINITIVA.exe
+C:\Users\Tomás Cuevas\Desktop\pryCUEVASSP1DEFINITIVA\pryCUEVASSP1DEFINITIVA\obj\Debug\pryCUEVASSP1DEFINITIVA.pdb
